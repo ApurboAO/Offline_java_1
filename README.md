@@ -22,8 +22,10 @@ To run this application, you need to have Java installed on your system.
 ### Installation
 
 1. Clone the repository to your local machine:
-      git clone [https://github.com/ApurboAO/cse-106-java-festival-app.git](https://github.com/ApurboAO/Offline_java_1.git)
-
+      git clone link:
+      ```bash
+      https://github.com/ApurboAO/Offline_java_1.git
+      ```
 3. Change directory to the project folder:
 
        cd cse-106-java-festival-app
