@@ -61,6 +61,3 @@ Contributions are welcome! If you find any issues or want to add new features, f
 
 Please make sure to follow the project's code of conduct and adhere to the coding guidelines.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
