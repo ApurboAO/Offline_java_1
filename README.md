@@ -1,4 +1,4 @@
-# CSE 106 Java Festival App
+# CSE 108 Java Festival App
 
 The CSE 106 Java Festival App is a command-line based application for managing festival events and student registrations. This application allows you to add events, register students, and perform various festival-related tasks.
 
